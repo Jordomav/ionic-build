@@ -20,4 +20,4 @@
 2. Click the Download Zip
 3. Open up your terminal and navigate to wherever you've saved the download
 4. Unzip the file
-5. Execute the bash script by running `bash ionic-build-linux.sh"
+5. Execute the bash script by running `bash ionic-build-linux.sh`
