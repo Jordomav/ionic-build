@@ -14,3 +14,10 @@
 4. Follow the instructions through the installer with the default settings
 5. Open up `cmd`
 6. Run `npm i -g gulp nodemon ionic cordova`
+
+## Linux- 
+1. Click the clone or download button
+2. Click the Download Zip
+3. Open up your terminal and navigate to wherever you've saved the download
+4. Unzip the file
+5. Execute the bash script by running `bash ionic-build-linux.sh"
