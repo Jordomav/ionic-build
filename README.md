@@ -4,7 +4,8 @@
 1. Click the clone or download button
 2. Click Download ZIP
 3. Open up the Terminal
-4. Type in `cd ~/Downloads/ionic-build/ && bash ionic-build.sh`
+4. Type in `cd ~/Downloads/ && unzip ionic-build-master.zip`
+5. Finally run `cd ~/Downloads/ionic-build-master && bash ionic-build.sh
 
 ## Windows-
 1. Go to [Node.js](https://nodejs.org/en/)
