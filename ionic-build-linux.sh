@@ -5,12 +5,12 @@ sudo apt-get install build-essential curl git m4 ruby texinfo libbz2-dev libcurl
 
 if ! brew -v
 echo "-----Installing Linuxbrew-----"
-ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/linuxbrew/go/install)"
+then ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/linuxbrew/go/install)"
 fi
 
 if ! node -v
 echo "-----Installing Node.js-----"
-brew install node
+then brew install node
 fi
 
 echo "-----Installing Ionic and Ionic Deps-----"
